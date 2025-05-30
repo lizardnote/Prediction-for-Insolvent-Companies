@@ -53,4 +53,5 @@ The goal is to support risk management decisions by identifying potential bankru
 - Last updated: 2025.04
 
 ---
+[담당파트 : 데이터 수집, 전처리, 모델링]
 
