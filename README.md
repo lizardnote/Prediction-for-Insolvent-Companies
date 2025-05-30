@@ -54,4 +54,3 @@ The goal is to support risk management decisions by identifying potential bankru
 
 ---
 
-Feel free to explore the notebooks for more details!
